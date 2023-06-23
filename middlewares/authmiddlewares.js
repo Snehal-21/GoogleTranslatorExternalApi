@@ -1,4 +1,4 @@
-import { response } from "express";
+
 import User from "../modules/user.js";
 import encrypt from "encryptjs";
 
